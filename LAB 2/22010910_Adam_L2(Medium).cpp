@@ -1,3 +1,13 @@
+/*
+*****************************
+id: 22010910
+name: Adam Zharfan
+contact: 0129520190
+email: muhammad_22010910@utp.edu.my
+
+question: Find median in row wise sorted matrix
+*/
+
 #include <iostream>
 #include <algorithm>
 using namespace std;
