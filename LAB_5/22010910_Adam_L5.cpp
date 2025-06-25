@@ -1,3 +1,11 @@
+/*
+*****************************
+id: 22010910
+name: Adam Zharfan
+contact: 0129520190
+email: muhammad_22010910@utp.edu.my
+*/
+
 #include <iostream>
 using namespace std;
 
