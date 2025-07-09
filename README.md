@@ -9,3 +9,5 @@ Data Structure and Algorithm Lab Work
 | 11/6/2025 | Lab 3      | Linked list <br> [Singly](LAB_3/22010910_Adam_L3.1.cpp) <br> [Doubly](LAB_3/22010910_Adam_L3.2.cpp)|
 | 18/6/2025 | Lab 4      | [Circular Linked List](LAB_4/22010910_Adam_L4.cpp) |
 | 6/25/2025 | Lab 5      | [Stack](LAB_5/22010910_Adam_L5.cpp)|
+| 7/2/2025 | Lab 6      | Queue <br>[Normal](LAB_6/22010910_Adam_L6.3.cpp) <br> [Circular](LAB_6/22010910_Adam_L6.2.cpp) <br> [Array](LAB_6/22010910_Adam_L6.1.cpp)|
+| 6/25/2025 | Lab 7      | [Stack](LAB_5/22010910_Adam_L5.cpp)|
