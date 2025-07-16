@@ -11,3 +11,4 @@ Data Structure and Algorithm Lab Work
 | 25/6/2025 | Lab 5      | Stack: <br>[Stack](LAB_5/22010910_Adam_L5.cpp)|
 | 2/7/2025 | Lab 6      | Queue: <br>[Normal](LAB_6/22010910_Adam_L6.3.cpp) <br> [Circular](LAB_6/22010910_Adam_L6.2.cpp) <br> [Array](LAB_6/22010910_Adam_L6.1.cpp)|
 | 9/7/2025 | Lab 7      | Tree: <br> [Tree](LAB_7/Adam22010910_Lab7.cpp)|
+| 16/7/2025 | Lab 8      | Binary Search Tree: <br> [Search Tree](LAB_8/Adam22010910_Lab8.cpp)|
